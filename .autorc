@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "202420505",
+  "repo": "container-orpz1pu",
+  "name": "202420505",
+  "email": "170919602+202420505@users.noreply.github.com",
+}
